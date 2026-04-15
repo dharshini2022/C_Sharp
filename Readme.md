@@ -13,3 +13,7 @@
 * Implemented a dynamic List of String data type
 * Implemented option based add, remove and print functionalities
 * Implemented string functions like Trim() and ToUpper()
+
+**Task4:** Collections and Linq
+* Implemented a dynamic list
+* Used LINQ functions filter (where) and ascending order (orderBy)

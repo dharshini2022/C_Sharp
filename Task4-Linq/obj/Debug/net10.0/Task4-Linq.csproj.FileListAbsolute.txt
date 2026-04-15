@@ -1,0 +1,15 @@
+C:\Users\dhars\Desktop\Presidio\C#\Task4-Linq\obj\Debug\net10.0\Task4-Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhars\Desktop\Presidio\C#\Task4-Linq\obj\Debug\net10.0\Task4-Linq.AssemblyInfoInputs.cache
+C:\Users\dhars\Desktop\Presidio\C#\Task4-Linq\obj\Debug\net10.0\Task4-Linq.AssemblyInfo.cs
+C:\Users\dhars\Desktop\Presidio\C#\Task4-Linq\obj\Debug\net10.0\Task4-Linq.csproj.CoreCompileInputs.cache
+C:\Users\dhars\Desktop\Presidio\C#\Task4-Linq\obj\Debug\net10.0\Task4-Linq.sourcelink.json
+C:\Users\dhars\Desktop\Presidio\C#\Task4-Linq\bin\Debug\net10.0\Task4-Linq.exe
+C:\Users\dhars\Desktop\Presidio\C#\Task4-Linq\bin\Debug\net10.0\Task4-Linq.deps.json
+C:\Users\dhars\Desktop\Presidio\C#\Task4-Linq\bin\Debug\net10.0\Task4-Linq.runtimeconfig.json
+C:\Users\dhars\Desktop\Presidio\C#\Task4-Linq\bin\Debug\net10.0\Task4-Linq.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task4-Linq\bin\Debug\net10.0\Task4-Linq.pdb
+C:\Users\dhars\Desktop\Presidio\C#\Task4-Linq\obj\Debug\net10.0\Task4-Linq.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task4-Linq\obj\Debug\net10.0\refint\Task4-Linq.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task4-Linq\obj\Debug\net10.0\Task4-Linq.pdb
+C:\Users\dhars\Desktop\Presidio\C#\Task4-Linq\obj\Debug\net10.0\Task4-Linq.genruntimeconfig.cache
+C:\Users\dhars\Desktop\Presidio\C#\Task4-Linq\obj\Debug\net10.0\ref\Task4-Linq.dll
