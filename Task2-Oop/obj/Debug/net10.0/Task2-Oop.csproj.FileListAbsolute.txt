@@ -1,0 +1,15 @@
+C:\Users\dhars\Desktop\Presidio\C#\Task2-Oop\obj\Debug\net10.0\Task2-Oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhars\Desktop\Presidio\C#\Task2-Oop\obj\Debug\net10.0\Task2-Oop.AssemblyInfoInputs.cache
+C:\Users\dhars\Desktop\Presidio\C#\Task2-Oop\obj\Debug\net10.0\Task2-Oop.AssemblyInfo.cs
+C:\Users\dhars\Desktop\Presidio\C#\Task2-Oop\obj\Debug\net10.0\Task2-Oop.csproj.CoreCompileInputs.cache
+C:\Users\dhars\Desktop\Presidio\C#\Task2-Oop\obj\Debug\net10.0\Task2-Oop.sourcelink.json
+C:\Users\dhars\Desktop\Presidio\C#\Task2-Oop\bin\Debug\net10.0\Task2-Oop.exe
+C:\Users\dhars\Desktop\Presidio\C#\Task2-Oop\bin\Debug\net10.0\Task2-Oop.deps.json
+C:\Users\dhars\Desktop\Presidio\C#\Task2-Oop\bin\Debug\net10.0\Task2-Oop.runtimeconfig.json
+C:\Users\dhars\Desktop\Presidio\C#\Task2-Oop\bin\Debug\net10.0\Task2-Oop.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task2-Oop\bin\Debug\net10.0\Task2-Oop.pdb
+C:\Users\dhars\Desktop\Presidio\C#\Task2-Oop\obj\Debug\net10.0\Task2-Oop.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task2-Oop\obj\Debug\net10.0\refint\Task2-Oop.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task2-Oop\obj\Debug\net10.0\Task2-Oop.pdb
+C:\Users\dhars\Desktop\Presidio\C#\Task2-Oop\obj\Debug\net10.0\Task2-Oop.genruntimeconfig.cache
+C:\Users\dhars\Desktop\Presidio\C#\Task2-Oop\obj\Debug\net10.0\ref\Task2-Oop.dll
