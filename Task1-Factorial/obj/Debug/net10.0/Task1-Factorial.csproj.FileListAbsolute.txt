@@ -1,0 +1,14 @@
+C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\bin\Debug\net10.0\Task1-Factorial.exe
+C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\bin\Debug\net10.0\Task1-Factorial.deps.json
+C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\bin\Debug\net10.0\Task1-Factorial.runtimeconfig.json
+C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\bin\Debug\net10.0\Task1-Factorial.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\bin\Debug\net10.0\Task1-Factorial.pdb
+C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\obj\Debug\net10.0\Task1-Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\obj\Debug\net10.0\Task1-Factorial.AssemblyInfoInputs.cache
+C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\obj\Debug\net10.0\Task1-Factorial.AssemblyInfo.cs
+C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\obj\Debug\net10.0\Task1-Factorial.csproj.CoreCompileInputs.cache
+C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\obj\Debug\net10.0\Task1-Factorial.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\obj\Debug\net10.0\refint\Task1-Factorial.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\obj\Debug\net10.0\Task1-Factorial.pdb
+C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\obj\Debug\net10.0\Task1-Factorial.genruntimeconfig.cache
+C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\obj\Debug\net10.0\ref\Task1-Factorial.dll
