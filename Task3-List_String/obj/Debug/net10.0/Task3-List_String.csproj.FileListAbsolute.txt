@@ -1,0 +1,15 @@
+C:\Users\dhars\Desktop\Presidio\C#\Task3-List_String\obj\Debug\net10.0\Task3-List_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhars\Desktop\Presidio\C#\Task3-List_String\obj\Debug\net10.0\Task3-List_String.AssemblyInfoInputs.cache
+C:\Users\dhars\Desktop\Presidio\C#\Task3-List_String\obj\Debug\net10.0\Task3-List_String.AssemblyInfo.cs
+C:\Users\dhars\Desktop\Presidio\C#\Task3-List_String\obj\Debug\net10.0\Task3-List_String.csproj.CoreCompileInputs.cache
+C:\Users\dhars\Desktop\Presidio\C#\Task3-List_String\obj\Debug\net10.0\Task3-List_String.sourcelink.json
+C:\Users\dhars\Desktop\Presidio\C#\Task3-List_String\bin\Debug\net10.0\Task3-List_String.exe
+C:\Users\dhars\Desktop\Presidio\C#\Task3-List_String\bin\Debug\net10.0\Task3-List_String.deps.json
+C:\Users\dhars\Desktop\Presidio\C#\Task3-List_String\bin\Debug\net10.0\Task3-List_String.runtimeconfig.json
+C:\Users\dhars\Desktop\Presidio\C#\Task3-List_String\bin\Debug\net10.0\Task3-List_String.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task3-List_String\bin\Debug\net10.0\Task3-List_String.pdb
+C:\Users\dhars\Desktop\Presidio\C#\Task3-List_String\obj\Debug\net10.0\Task3-List_String.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task3-List_String\obj\Debug\net10.0\refint\Task3-List_String.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task3-List_String\obj\Debug\net10.0\Task3-List_String.pdb
+C:\Users\dhars\Desktop\Presidio\C#\Task3-List_String\obj\Debug\net10.0\Task3-List_String.genruntimeconfig.cache
+C:\Users\dhars\Desktop\Presidio\C#\Task3-List_String\obj\Debug\net10.0\ref\Task3-List_String.dll
