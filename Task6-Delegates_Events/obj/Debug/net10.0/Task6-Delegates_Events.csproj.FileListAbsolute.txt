@@ -1,0 +1,15 @@
+C:\Users\dhars\Desktop\Presidio\C#\Task6-Delegates_Events\bin\Debug\net10.0\Task6-Delegates_Events.exe
+C:\Users\dhars\Desktop\Presidio\C#\Task6-Delegates_Events\bin\Debug\net10.0\Task6-Delegates_Events.deps.json
+C:\Users\dhars\Desktop\Presidio\C#\Task6-Delegates_Events\bin\Debug\net10.0\Task6-Delegates_Events.runtimeconfig.json
+C:\Users\dhars\Desktop\Presidio\C#\Task6-Delegates_Events\bin\Debug\net10.0\Task6-Delegates_Events.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task6-Delegates_Events\bin\Debug\net10.0\Task6-Delegates_Events.pdb
+C:\Users\dhars\Desktop\Presidio\C#\Task6-Delegates_Events\obj\Debug\net10.0\Task6-Delegates_Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhars\Desktop\Presidio\C#\Task6-Delegates_Events\obj\Debug\net10.0\Task6-Delegates_Events.AssemblyInfoInputs.cache
+C:\Users\dhars\Desktop\Presidio\C#\Task6-Delegates_Events\obj\Debug\net10.0\Task6-Delegates_Events.AssemblyInfo.cs
+C:\Users\dhars\Desktop\Presidio\C#\Task6-Delegates_Events\obj\Debug\net10.0\Task6-Delegates_Events.csproj.CoreCompileInputs.cache
+C:\Users\dhars\Desktop\Presidio\C#\Task6-Delegates_Events\obj\Debug\net10.0\Task6-Delegates_Events.sourcelink.json
+C:\Users\dhars\Desktop\Presidio\C#\Task6-Delegates_Events\obj\Debug\net10.0\Task6-Delegates_Events.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task6-Delegates_Events\obj\Debug\net10.0\refint\Task6-Delegates_Events.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task6-Delegates_Events\obj\Debug\net10.0\Task6-Delegates_Events.pdb
+C:\Users\dhars\Desktop\Presidio\C#\Task6-Delegates_Events\obj\Debug\net10.0\Task6-Delegates_Events.genruntimeconfig.cache
+C:\Users\dhars\Desktop\Presidio\C#\Task6-Delegates_Events\obj\Debug\net10.0\ref\Task6-Delegates_Events.dll

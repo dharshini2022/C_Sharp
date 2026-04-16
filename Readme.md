@@ -22,3 +22,8 @@
 * Implemented create, read, write and append functions to file and folders.
 * Used Exisits, Streamwriter and ReadAllText functions.
 * Implemented exception handling using try catch.
+
+**Task6:** Delegates and Event Handling
+* Implemented a Delegate based Counter Event Handling that works with respect to a threshold value.
+* Threshold reached --> Event Triggered --> Handlers wrt Delegates get executed
+* A delegate in C# is a type-safe function pointer that holds references to methods with a specific signature and allows them to be invoked dynamically.
