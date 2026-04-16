@@ -17,3 +17,8 @@
 **Task4:** Collections and Linq
 * Implemented a dynamic list
 * Used LINQ functions filter (where) and ascending order (orderBy)
+
+**Task5:** File Handling
+* Implemented create, read, write and append functions to file and folders.
+* Used Exisits, Streamwriter and ReadAllText functions.
+* Implemented exception handling using try catch.
