@@ -32,3 +32,7 @@
 * Created a console - based weather app using async await.
 * Importd the API Key from .env file
 * Used HTTPClient class to use the external API URL.
+
+**TASK 8:** Generics and Interfaced in Repository Pattern Objective
+* Created a Student CRUD operations using Generic classes and interfaces.
+* Used RPO to separate data layer and business logic layer
