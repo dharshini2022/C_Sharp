@@ -27,3 +27,8 @@
 * Implemented a Delegate based Counter Event Handling that works with respect to a threshold value.
 * Threshold reached --> Event Triggered --> Handlers wrt Delegates get executed
 * A delegate in C# is a type-safe function pointer that holds references to methods with a specific signature and allows them to be invoked dynamically.
+
+**TASK7:** Asynchronous and Multi-Threading Programming
+* Created a console - based weather app using async await.
+* Importd the API Key from .env file
+* Used HTTPClient class to use the external API URL.
