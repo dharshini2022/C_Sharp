@@ -36,3 +36,7 @@
 **TASK 8:** Generics and Interfaced in Repository Pattern Objective
 * Created a Student CRUD operations using Generic classes and interfaces.
 * Used RPO to separate data layer and business logic layer
+
+**TASK 9:** Reflection and Custom Attribute Objective
+* Created a Custom Runnable attribute
+* Used Reflection methods to invoke only the Runnable attribute type on the run time.

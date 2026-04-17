@@ -18,3 +18,10 @@ class ClassName<T>{
 * By default the methods are abstracted (no body) and public.
 * It can't be instantiated. (no object)
 * It is implemented by child class using (:)
+
+
+**Code Structure:**
+* IRepository.cs : contains the abstracted methods
+* IEntity.cs : an interface with rules for enitites (like compulsory rollNo here)
+* Student.cs : class that implements IEntityt (follows the rules, compulsory rollNo)
+* InMemoryRepository.cs : class that implements IRepository where T must be an entity class that follows IEntity.
