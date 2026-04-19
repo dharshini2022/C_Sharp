@@ -12,3 +12,4 @@ C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\obj\Debug\net10.0\refint\Task
 C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\obj\Debug\net10.0\Task1-Factorial.pdb
 C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\obj\Debug\net10.0\Task1-Factorial.genruntimeconfig.cache
 C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\obj\Debug\net10.0\ref\Task1-Factorial.dll
+C:\Users\dhars\Desktop\Presidio\C#\Task1-Factorial\obj\Debug\net10.0\Task1-Factorial.sourcelink.json

@@ -60,7 +60,7 @@ class Program
         counter.ThresholdReached += handler.displayThresholdMsg;
         counter.ThresholdReached += handler.consoleLog;
         counter.ThresholdReached += handler.TakeAction;
-        counter.ThresholdReached += handler.countReturn;
+        // counter.ThresholdReached += handler.countReturn;
 
         for(int i = 0; i < 7; ++i)
         {
