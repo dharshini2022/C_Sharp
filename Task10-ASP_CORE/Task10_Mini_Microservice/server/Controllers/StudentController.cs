@@ -31,6 +31,8 @@ namespace Task10_Mini_Microservice.server.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(Student Student)
         {
+            if(!ModelState.IsValid)
+                return BadRequest(ModelState);
             var created = await _service.AddAsync(Student);
             return CreatedAtAction(nameof(Get), new { rollNo = created.rollNo }, created);
         }

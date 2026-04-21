@@ -9,5 +9,7 @@ namespace Task10_Mini_Microservice.server.Data
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         public DbSet<Student> Students => Set<Student>();
+
+        public DbSet<LogEntry> Logs => Set<LogEntry>();
     }
 }

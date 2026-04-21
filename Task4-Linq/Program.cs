@@ -24,7 +24,7 @@ class Program
         int threshold = int.Parse(Console.ReadLine());
 
         var result = students
-                        .Where(s => s.Mark > threshold)        
+                        .Where(s => s.Mark > threshold && s.Age > 20)        
                         .OrderBy(s => s.Name);                 
 
         Console.WriteLine("\nFiltered & Sorted Students:");
